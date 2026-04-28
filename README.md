@@ -50,7 +50,7 @@ Warehouse Movements
 AI Decision Logs
 
 ## System Architecture
-The platform is built on a modular, layered architecture to ensure scalability and reliability:
+The platform is built on a modular, layered architecture to ensure scalability and reliability;
 
 Data Layer: SQLite Relational Database for structured storage.
 
