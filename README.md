@@ -82,23 +82,31 @@ OpenAI API Key (optional, rule-based fallback will trigger otherwise)
 
 
 ## Installation
-1. Clone the repository:
 
+### 1. Clone the repository
+
+```bash
 git clone https://github.com/gamzescodes/autosmart-erp.git
 cd autosmart-erp
+```  
 
-2. Install dependencies:
-   
+### 2. Install dependencies:
+
+```bash
 pip install -r requirements.txt
+```  
 
-3. Configure Secrets:
-   
+### 3. Configure environment variables:
+Create a .streamlit/secrets.toml file and add your OpenAI API key;
+```toml 
 OPENAI_API_KEY = "your_api_key_here"
+```
 
-4. Run the application:
-   
+### 4. Run the application:
+
+```bash
 streamlit run app.py
-
+```  
 
 ## Security & Reliability
 API Management: Sensitive credentials are managed via environment variables and excluded from version control.
@@ -106,7 +114,7 @@ API Management: Sensitive credentials are managed via environment variables and 
 System Continuity: The fallback engine guarantees that decision support remains functional under all conditions.
 
 ## Author
-Gamze Doyran, Industrial Engineering Student Focusing on Data Analytics, ERP System Design, and AI Integration in Supply Chain.
+Industrial Engineering Student Focusing on Data Analytics, ERP System Design, and AI Integration in Supply Chain.
 
 ## License
 This project is developed for educational and conceptual demonstration purposes.
