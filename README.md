@@ -21,29 +21,40 @@ Operational Risk: Real-time risk scoring for each transaction based on lead time
 Decision Support System (DSS)
 
 AI-Generated Insights: Context-aware management reports using the OpenAI API.
+
 Automated Evaluation: Structured outputs covering operational assessments, risk evaluations, and recommended actions.
+
 Fallback Logic: A robust Rule-Based Engine that ensures system continuity and consistent decision logic even if the AI service is unavailable.
+
 
 Executive Dashboard & Analytics
 
 Performance Indicators: Live tracking of revenue, order status, and dealer performance.
+
 Demand Segmentation: Deep-dive analysis by category, region, and automotive brand.
+
 Risk Distribution: Visual overview of delayed or rejected orders.
 
 ## Data Explorer
 Direct transparency into the relational structure:
 
 Products & Suppliers
+
 Dealer Transactions
+
 Warehouse Movements
+
 AI Decision Logs
 
 ## System Architecture
 The platform is built on a modular, layered architecture to ensure scalability and reliability:
 
 Data Layer: SQLite Relational Database for structured storage.
+
 Business Logic Layer: Python-based ERP workflows and transaction management.
+
 Application Layer: Interactive web interface powered by Streamlit.
+
 Decision Layer: Hybrid engine (OpenAI GPT-4 + Deterministic Rule-based Logic).
 
 ## Technology Stack
