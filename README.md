@@ -10,8 +10,8 @@ Key Vision: Moving beyond simple data entry towards an "Intelligent ERP" that in
 
 ## 🚀 Core Functionalities
 
-**Order & Warehouse Management
-**
+Order & Warehouse Management
+
 
 Real-time Validation: Automated inventory checks during dealer-based order entry.
 
@@ -19,8 +19,9 @@ Stock Dynamics: Automatic stock updates and detailed warehouse movement logging.
 
 Operational Risk: Real-time risk scoring for each transaction based on lead times and stock availability.
 
-**Decision Support System (DSS)
-**
+Decision Support System (DSS)
+
+
 AI-Generated Insights: Context-aware management reports using the OpenAI API.
 
 Automated Evaluation: Structured outputs covering operational assessments, risk evaluations, and recommended actions.
@@ -28,8 +29,9 @@ Automated Evaluation: Structured outputs covering operational assessments, risk 
 Fallback Logic: A robust Rule-Based Engine that ensures system continuity and consistent decision logic even if the AI service is unavailable.
 
 
-**Executive Dashboard & Analytics
-**
+Executive Dashboard & Analytics
+
+
 Performance Indicators: Live tracking of revenue, order status, and dealer performance.
 
 Demand Segmentation: Deep-dive analysis by category, region, and automotive brand.
