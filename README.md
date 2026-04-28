@@ -59,7 +59,7 @@ OpenAI API Key (optional, rule-based fallback will trigger otherwise)
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/yourusername/autosmart-erp.git
+git clone https://github.com/gamzescodes/autosmart-erp.git
 cd autosmart-erp
 
 2. Install dependencies:
