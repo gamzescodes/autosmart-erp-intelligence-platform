@@ -13,7 +13,9 @@ Key Vision: Moving beyond simple data entry towards an "Intelligent ERP" that in
 Order & Warehouse Management
 
 Real-time Validation: Automated inventory checks during dealer-based order entry.
+
 Stock Dynamics: Automatic stock updates and detailed warehouse movement logging.
+
 Operational Risk: Real-time risk scoring for each transaction based on lead times and stock availability.
 
 Decision Support System (DSS)
