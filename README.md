@@ -60,28 +60,40 @@ Decision Layer: Hybrid engine (OpenAI GPT-4 + Deterministic Rule-based Logic).
 ## Technology Stack
 
 Language: Python
+
 Frontend: Streamlit
+
 Database: SQLite / Pandas
+
 AI Integration: OpenAI API
+
 Deployment: Streamlit Community Cloud
+
 
 ## Getting Started
 Prerequisites
+
 Python 3.9+
+
 OpenAI API Key (optional, rule-based fallback will trigger otherwise)
+
 
 ## Installation
 1. Clone the repository:
+
 git clone https://github.com/gamzescodes/autosmart-erp.git
 cd autosmart-erp
 
 2. Install dependencies:
+   
 pip install -r requirements.txt
 
 3. Configure Secrets:
+   
 OPENAI_API_KEY = "your_api_key_here"
 
-5. Run the application:
+4. Run the application:
+   
 streamlit run app.py
 
 
