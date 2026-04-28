@@ -1,4 +1,4 @@
-## 🏎️ AutoSmart ERP Intelligence Platform
+## AutoSmart ERP Intelligence Platform
 An AI-supported ERP simulation platform designed specifically for automotive after-sales spare parts and logistics operations. 
 This project demonstrates the transformation of traditional, transaction-based ERPs into data-driven, insight-oriented decision support systems.
 
@@ -16,14 +16,13 @@ Real-time Validation: Automated inventory checks during dealer-based order entry
 Stock Dynamics: Automatic stock updates and detailed warehouse movement logging.
 Operational Risk: Real-time risk scoring for each transaction based on lead times and stock availability.
 
-🧠 Decision Support System (DSS)
+Decision Support System (DSS)
+
 AI-Generated Insights: Context-aware management reports using the OpenAI API.
-
 Automated Evaluation: Structured outputs covering operational assessments, risk evaluations, and recommended actions.
-
 Fallback Logic: A robust Rule-Based Engine that ensures system continuity and consistent decision logic even if the AI service is unavailable.
 
-📊 Executive Dashboard & Analytics
+Executive Dashboard & Analytics
 
 Performance Indicators: Live tracking of revenue, order status, and dealer performance.
 Demand Segmentation: Deep-dive analysis by category, region, and automotive brand.
@@ -53,7 +52,7 @@ Database: SQLite / Pandas
 AI Integration: OpenAI API
 Deployment: Streamlit Community Cloud
 
-## 🚦 Getting Started
+## Getting Started
 Prerequisites
 Python 3.9+
 OpenAI API Key (optional, rule-based fallback will trigger otherwise)
