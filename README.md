@@ -10,7 +10,7 @@ Key Vision: Moving beyond simple data entry towards an "Intelligent ERP" that in
 
 ## 🚀 Core Functionalities
 
-Order & Warehouse Management
+### Order & Warehouse Management
 
 
 Real-time Validation: Automated inventory checks during dealer-based order entry.
@@ -19,7 +19,7 @@ Stock Dynamics: Automatic stock updates and detailed warehouse movement logging.
 
 Operational Risk: Real-time risk scoring for each transaction based on lead times and stock availability.
 
-Decision Support System (DSS)
+### Decision Support System (DSS)
 
 
 AI-Generated Insights: Context-aware management reports using the OpenAI API.
@@ -29,7 +29,7 @@ Automated Evaluation: Structured outputs covering operational assessments, risk 
 Fallback Logic: A robust Rule-Based Engine that ensures system continuity and consistent decision logic even if the AI service is unavailable.
 
 
-Executive Dashboard & Analytics
+### Executive Dashboard & Analytics
 
 
 Performance Indicators: Live tracking of revenue, order status, and dealer performance.
@@ -118,3 +118,24 @@ Industrial Engineering Student Focusing on Data Analytics, ERP System Design, an
 
 ## License
 This project is developed for educational and conceptual demonstration purposes.
+
+## Live Demo
+
+The application is accessible via the following link:
+https://autosmart-erp-intelligence-platform-loh5prvy4zpprdo6wj5sxp.streamlit.app/
+
+## Application Preview
+
+### Executive Overview
+
+<img width="1910" height="779" alt="Screenshot 2026-04-28 234929" src="https://github.com/user-attachments/assets/97502cbd-02b7-4713-b3f9-2c58ed2dd0f5" />
+
+### Order Management
+
+<img width="1915" height="819" alt="image" src="https://github.com/user-attachments/assets/78123f7d-c724-4270-ad3e-eb86ba86a72b" />
+
+### AI Decision Support
+
+<img width="1919" height="823" alt="image" src="https://github.com/user-attachments/assets/6ba7ea26-608c-4234-9e8f-62d2b97b6419" />
+
+
